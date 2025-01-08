@@ -1,0 +1,43 @@
+.navbar.navbar-expand-lg.bg-body-tertiary {
+    position: relative;
+    top: 0;
+}
+
+.metode {
+    background-color: #567c8d;
+    padding: 50px 0;
+    border-radius: 8px;
+}
+
+.metode h2 {
+    font-size: 2rem;
+    font-weight: 700;
+    color: #f5efeb;
+}
+
+.metode p {
+    font-size: 1rem;
+    color: #f5efeb;
+    max-width: 800px;
+    margin: 0 auto;
+}
+
+
+.card p {
+    color: #2f4156;
+}
+
+.card-header.text-center.text-light {
+    background-color: #2f4156;
+}
+
+h5 {
+    color: #2f4156;
+}
+
+.kesimpulan {
+    background-color: #567c8d;
+    padding: 50px 0;
+    border-radius: 8px;
+    color: #f5efeb;
+}

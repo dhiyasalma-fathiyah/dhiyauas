@@ -1,0 +1,25 @@
+.navbar.navbar-expand-lg.bg-body-tertiary {
+    position: relative;
+    top: 0;
+}
+
+.profile-container {
+    text-align: center;
+    margin-top: 50px;
+}
+
+table {
+    width: 50%;
+    margin: 0 auto;
+    border-collapse: collapse;
+    text-align: center;
+    background-color: whitesmoke;
+}
+
+th,
+td {
+    border: 1px solid black;
+    padding: 8px;
+}
+
+header {margin-top: 50px;}
